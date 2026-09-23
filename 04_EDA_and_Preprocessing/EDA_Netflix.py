@@ -15,7 +15,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-df = pd.read_csv(r"C:\Users\syin\Downloads\Netflix_movies_N_tvshows\netflix_titles.csv")
+df = pd.read_csv(r"..netflix_titles.csv")
 
 
 # In[3]:

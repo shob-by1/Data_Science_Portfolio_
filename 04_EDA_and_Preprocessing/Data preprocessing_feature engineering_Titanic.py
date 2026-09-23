@@ -11,7 +11,7 @@ import pandas as pd
 import numpy as np
 from sklearn.preprocessing import LabelEncoder, StandardScaler
 
-df = pd.read_csv(r"C:\Users\syin\Downloads\Titanic_dataset\Titanic-Dataset.csv")
+df = pd.read_csv(r"........")
 
 
 # In[3]:
